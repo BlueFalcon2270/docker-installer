@@ -15,5 +15,8 @@ bash install.sh
 ```
 ### 🟠 For Ubuntu (22.04, 24.04)
 Copy and run this command:
+
+```bash
 wget -O install.sh [https://raw.githubusercontent.com/BlueFalcon2270/docker-installer/main/install.sh](https://raw.githubusercontent.com/BlueFalcon2270/docker-installer/main/install.sh)
 bash install.sh
+```
