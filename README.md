@@ -14,7 +14,7 @@ Copy and run this single command:
 ```bash
 wget -O install.sh https://raw.githubusercontent.com/BlueFalcon2270/docker-installer/main/install.sh && sudo bash install.sh
 ```
-<br>
+<br><br>
 
 ## ✅ Supported Systems
 | Distribution | Compatibility |
