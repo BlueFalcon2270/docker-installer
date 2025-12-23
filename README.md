@@ -1,6 +1,6 @@
 # 🐳 Linux Docker Installer
 
-**Easily install Docker Engine and Docker Compose on Debian and Ubuntu servers.** This script automatically detects your OS version, installs official keys, and configures the repository.
+**Easily install Docker Engine and Docker Compose on Debian and Ubuntu servers.**
 
 ---
 
@@ -10,4 +10,10 @@
 Copy and run this command:
 
 ```bash
-wget -O install.sh [https://raw.githubusercontent.com/BlueFalcon2270/docker-installer/main/install-debian.sh](https://raw.githubusercontent.com/BlueFalcon2270/docker-installer/main/install-debian.sh) && bash install.sh
+wget -O install.sh [https://raw.githubusercontent.com/BlueFalcon2270/docker-installer/main/install.sh](https://raw.githubusercontent.com/BlueFalcon2270/docker-installer/main/install.sh)
+bash install.sh
+🟠 For Ubuntu (22.04, 24.04)
+Copy and run this command:
+```bash
+wget -O install.sh [https://raw.githubusercontent.com/BlueFalcon2270/docker-installer/main/install.sh](https://raw.githubusercontent.com/BlueFalcon2270/docker-installer/main/install.sh)
+bash install.sh
