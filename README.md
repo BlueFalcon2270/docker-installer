@@ -3,9 +3,38 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+<br><br>
 
-**Zero-hassle Docker Engine & Docker Compose installation for Linux servers.**
-This script auto-detects your OS (Debian, Ubuntu, CentOS, Fedora, RHEL) and configures the official repositories automatically.
+The easiest way to install Docker & Docker Compose on Linux.
+This script automatically detects your distribution and configures the official repositories for a perfect install.
+<br><br>
+
+## 🚀 Quick Install
+
+Copy and run this single command:
+
+```bash
+wget -O install.sh https://raw.githubusercontent.com/BlueFalcon2270/docker-installer/main/install.sh && sudo bash install.sh
+
+
+
+
+
+The easiest way to install Docker & Docker Compose on Linux.
+This script automatically detects your distribution and configures the official repositories for a perfect install.
+
+---
+
+## ✅ Supported Systems
+
+| Distribution | Compatibility |
+| :--- | :---: |
+| **Ubuntu** (20.04, 22.04, 24.04) | ✅ |
+| **Debian** (11, 12, 13) | ✅ |
+| **CentOS** (Stream 9, 10) | ✅ |
+| **Fedora** (40, 41) | ✅ |
+| **RHEL** (7, 8, 9) | ✅ |
+| **Raspberry Pi OS** | ✅ |
 
 ---
 
@@ -14,4 +43,4 @@ This script auto-detects your OS (Debian, Ubuntu, CentOS, Fedora, RHEL) and conf
 Copy and run this single command:
 
 ```bash
-wget -O install.sh https://raw.githubusercontent.com/BlueFalcon2270/docker-installer/main/install.sh && sudo bash install.sh
+wget -O install.sh [https://raw.githubusercontent.com/BlueFalcon2270/docker-installer/main/install.sh](https://raw.githubusercontent.com/BlueFalcon2270/docker-installer/main/install.sh) && sudo bash install.sh
