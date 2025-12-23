@@ -6,11 +6,10 @@
 
 The easiest way to install Docker & Docker Compose on Linux.
 This script automatically detects your distribution and configures the official repositories for a perfect install.
+<br>
 
 ## 🚀 Quick Install
 Copy and run this single command:
-<br><br>
-
 ```bash
 wget -O install.sh https://raw.githubusercontent.com/BlueFalcon2270/docker-installer/main/install.sh && sudo bash install.sh
 ```
