@@ -6,7 +6,6 @@
 
 The easiest way to install Docker & Docker Compose on Linux.
 This script automatically detects your distribution and configures the official repositories for a perfect install.
-<br><br>
 
 ## 🚀 Quick Install
 Copy and run this single command:
