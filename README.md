@@ -4,7 +4,8 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-**Zero-hassle Docker Engine & Compose installation for Linux servers.** Auto-detects your OS and configures the official repositories automatically.
+**Zero-hassle Docker Engine & Compose installation for Linux servers.**
+This script auto-detects your OS and configures the official Docker repositories automatically.
 
 ---
 
