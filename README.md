@@ -9,10 +9,12 @@ This script automatically detects your distribution and configures the official 
 
 ## 🚀 Quick Install
 Copy and run this single command:
+<br><br>
 
 ```bash
 wget -O install.sh https://raw.githubusercontent.com/BlueFalcon2270/docker-installer/main/install.sh && sudo bash install.sh
 ```
+<br>
 
 ## ✅ Supported Systems
 | Distribution | Compatibility |
